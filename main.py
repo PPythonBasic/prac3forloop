@@ -12,3 +12,4 @@ list_data = [{"name":"a"},{"name":"b"}, ...................]
 # ทำการ for loop ตัวอย่างเช่น
 for i in range(len(list_data)):
     print(list_data[i]["name"])
+
